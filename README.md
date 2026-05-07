@@ -1,5 +1,4 @@
-# WiFi Aggregation (802.11n/ac/ax)
-
+# WiFi Aggregation 
 The objective of this page is to provide a detailed understanding of aggregation. This feature was introduced in 802.11n to address the inefficiency where the PHY header (fixed at 20µs) takes more time to transmit than the actual payload at high data rates.
 
 > **Important:** Aggregation only occurs when **QoS (Quality of Service)** is enabled. It requires the use of QoS Data frames.
