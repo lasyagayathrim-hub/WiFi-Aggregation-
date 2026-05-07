@@ -12,7 +12,6 @@ The objective of this page is to provide a detailed understanding of aggregation
 | Feature | A-MSDU | A-MPDU |
 | :--- | :--- | :--- |
 | **Full Name** | Aggregate MAC Service Data Unit | Aggregate MAC Protocol Data Unit |
-| **Max Size (802.11ac)** | ~11,454 bytes | ~1,048,575 bytes |
 | **Error Recovery** | All-or-nothing (One FCS) | Selective Retransmission (Multiple FCS) |
 | **OSI Layer** | Upper MAC | Lower MAC |
 | **Efficiency** | Highest (Least overhead) | High (Balanced) |
