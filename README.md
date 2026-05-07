@@ -17,12 +17,12 @@ The objective of this page is to provide a detailed understanding of aggregation
 | **OSI Layer** | Upper MAC | Lower MAC |
 | **Efficiency** | Highest (Least overhead) | High (Balanced) |
 
----
+
 MPDU DELIMITER is added to understand where a AMPDU subframe starts/ends
 if we sniff, we cannot see AMPDUs as they will be processed. 
 payload type : AMSDU or MSDU
 radio information element-> Last part of AMPDU set to 1. 
----
+
 
 ## 2. Aggregation Flow Diagram
 
