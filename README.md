@@ -17,9 +17,13 @@ The objective of this page is to provide a detailed understanding of aggregation
 
 
 MPDU DELIMITER is added to understand where a AMPDU subframe starts/ends
+
 if we sniff, we cannot see AMPDUs as they will be processed. 
+
 payload type : AMSDU or MSDU
 radio information element-> Last part of AMPDU set to 1. 
+
+the max airtime of PPDU is 5.484 ms
 
 
 ## 2. Aggregation Flow Diagram
